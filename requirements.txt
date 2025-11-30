@@ -1,0 +1,16 @@
+anonymizedf
+cycler
+Faker
+highlight-text
+ipywidgets
+matplotlib
+numpy
+pandas
+plotly
+pyarrow
+scipy
+scikit-learn
+seaborn
+statsmodels
+xgboost
+yfinance
